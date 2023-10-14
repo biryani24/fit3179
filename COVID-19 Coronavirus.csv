@@ -1,4 +1,4 @@
-Country,Other names,ISO 3166-1 alpha-3 CODE,Population,Continent,Cases,Deaths,Tot Cases//1M pop,Tot Deaths/1M pop,Death percentage
+Country,Other names,ISO 3166-1 alpha-3 CODE,Population,Continent,Cases,Deaths,Total Cases Per 1M Pop,Total Deaths Per 1M Pop,Death percentage
 Afghanistan,Afghanistan,AFG,40462186,Asia,177827,7671,4395,190,4.313743132
 Albania,Albania,ALB,2872296,Europe,273870,3492,95349,1216,1.275057509
 Algeria,Algeria,DZA,45236699,Africa,265691,6874,5873,152,2.587215976
