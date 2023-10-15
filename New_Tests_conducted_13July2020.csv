@@ -1,4 +1,4 @@
-Country,Other names,ISO 3166-1 alpha-3 CODE,Population,Continent,Total Cases,Total Deaths,Tot Cases//1M pop,Tot Deaths/1M pop,Death percentage,Date,Tested,Units,Positive,%,Tested /millionpeople,Positive /millionpeople,Ref.,Source_1,Source_2
+Country,Other names,ISO 3166-1 alpha-3 CODE,Population,Continent,Total Cases,Total Deaths,Tot Cases//1M pop,Tot Deaths/1M pop,Death percentage,Date,Tested,Units,Positive,%,Tested Per 1M People,Positive Per 1M People,Ref.,Source_1,Source_2
 Afghanistan,Afghanistan,AFG,40462186.0,Asia,177827.0,7671.0,4395.0,190.0,4.313743132,31 May,38460,samples,15205,39.5,988,391.0, cite_note-260 ,https://moph-dw.gov.af/dhis-web-dashboard/#/, 
 Albania,Albania,ALB,2872296.0,Europe,273870.0,3492.0,95349.0,1216.0,1.275057509,9 June,16716,samples,1299,7.8,5839,454.0, cite_note-261 ,https://new.shëndetësia.gov.al/9-qershor-2020-informacion-i-përditësuar-për-koronavirusin-covid-19/, 
 Algeria,Algeria,DZA,45236699.0,Africa,265691.0,6874.0,5873.0,152.0,2.587215976,20 June,22467,samples,11631,51.8,515,267.0, cite_note-262 ,https://africacdc.org/covid-19/, 
